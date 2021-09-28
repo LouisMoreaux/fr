@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Louis Moreaux"
   avatar : "/assets/images/profile-picture.jpg"
-  bio    : "Oracle APEX developer from Paris"
+  bio    : "Développeur Oracle APEX à Paris"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
