@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Articles"
     url: /posts/
-  - title: "Categories"
+  - title: "Catégories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
+  - title: "A propos"
     url: /about/
+  - title: "EN"
+    url: "https://louismoreaux.github.io"
