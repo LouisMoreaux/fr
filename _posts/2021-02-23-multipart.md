@@ -8,6 +8,7 @@ tags:
   - APEX
   - web service
 ---
+[English version](https://louismoreaux.github.io/multipart/)
 
 Avant APEX 20.2, le package APEX_WEB_SERVICE ne supportait pas le multipart/form-data. Si comme moi, vous deviez atteindre un service web qui n'acceptait que ce type de corps de requête, vous deviez utiliser le package ULT_HTTP et créer le corps par vous-même. Nick Buytaert a fait un bon [post](https://apexplained.wordpress.com/2016/03/21/utl_http-and-a-multipartform-data-request-body/) à ce sujet sur son blog (qui m'a beaucoup aidé).
 
